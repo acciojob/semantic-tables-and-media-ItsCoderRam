@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+<style>
+table {
+  border: 1px solid gray;
+  width: 400px;
+}
+</style>
